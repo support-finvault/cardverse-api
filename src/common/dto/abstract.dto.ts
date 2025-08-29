@@ -1,0 +1,13 @@
+import { Expose, Exclude } from 'class-transformer';
+
+@Exclude()
+export class AbstractDto {
+  @Expose()
+  id: number;
+
+  @Expose()
+  createdAt: Date;
+
+  @Expose()
+  updatedAt: Date;
+}

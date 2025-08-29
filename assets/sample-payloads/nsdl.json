@@ -1,0 +1,320 @@
+{
+  "data": {
+    "AccountInfo": {
+      "Accounts": [
+        {
+          "AccountClass": 0,
+          "AccountDetails": "HDFC BANK LTD",
+          "AccountType": "NSDL Demat Account",
+          "ClientId": "52027951",
+          "DpId": "IN341649",
+          "Value": 28004.5
+        },
+        {
+          "AccountClass": 1,
+          "AccountDetails": "ZERODHA BROKING LIMITED",
+          "AccountType": "CDSL Demat Account",
+          "ClientId": "15414560",
+          "DpId": "12051100",
+          "Value": 282837.35
+        },
+        {
+          "AccountClass": 2,
+          "AccountDetails": "1 Folios",
+          "AccountType": "Mutual Fund Folios",
+          "ClientId": null,
+          "DpId": null,
+          "Value": 234860.32
+        },
+        {
+          "AccountClass": 2,
+          "AccountDetails": "3 Folios",
+          "AccountType": "Mutual Fund Folios",
+          "ClientId": null,
+          "DpId": null,
+          "Value": 1435887.6
+        }
+      ],
+      "GrandTotal": 1981589.77,
+      "TotalAccount": 4
+    },
+    "CDSLInfo": {
+      "Accounts": [
+        {
+          "AccountDetails": "ZERODHA BROKING LIMITED",
+          "AccountType": "CDSL Demat Account",
+          "AIFList": {
+            "AIFs": [
+              {
+                "Isin": "INF0QS425012",
+                "IsinDescription": "ALTERNATIVES INVESTMENT TRUST",
+                "NumberOfUnits": 740.315,
+                "Value": 7403150
+              },
+              {
+                "Isin": "INF3R1T52050",
+                "IsinDescription": "ALTERNATE INVESTMENT TRUST",
+                "NumberOfUnits": 100000,
+                "Value": 10000000
+              }
+            ],
+            "TotalAIF": 2,
+            "TotalValue": 17403150
+          },
+          "ClientId": "15614560",
+          "LinkedPANs": ["PAN_NO"],
+          "CorporateBondList": {
+            "CorporateBonds": [
+              {
+                "Security": "L & T, INFRASTRUCTURE, FINANCE COMPANY, LIMITED L&T FINANCE LIMITED",
+                "Isin": "INE691I07307",
+                "CurrentBalance": 20.0,
+                "Value": 20000.0
+              }
+            ],
+            "TotalBond": 20,
+            "TotalValue": 20000.0
+          },
+          "DpId": "12081600",
+          "EquityList": {
+            "Equities": [
+              {
+                "CurrentBalance": 2.0,
+                "EquityType": 0,
+                "Isin": "INE031B01049",
+                "Security": "AJANTA PHARMA LIMITED #\nNEW EQUITY SHARE WITH\nFACE VALUE RS.2/- AFTER\nSUB DIVISION",
+                "Value": 4251.5
+              },
+              {
+                "CurrentBalance": 1.0,
+                "EquityType": 0,
+                "Isin": "INE540L01014",
+                "Security": "ALKEM LABORATORIES\nLIMITED # EQUITY SHARES",
+                "Value": 3608.45
+              }
+            ],
+            "TotalEquity": 62,
+            "TotalValue": 274480.50000000006
+          },
+          "GovernmentSecurityList": {
+            "GovernmentSecurities": [
+              {
+                "Isin": "IN0020200457",
+                "IsinDescription": "GOVT OF INDIA#2.5% SGB 2020-21 SERIES XII 2029- LOAN CODE 20116 - RED DT 09.03.2028",
+                "NumberOfUnits": 1.0,
+                "Value": 5060
+              }
+            ],
+            "TotalGovernmentSecurity": 1,
+            "TotalValue": 5060
+          },
+          "MutualFundList": {
+            "MutualFunds": [
+              {
+                "CurrentBalance": 5.0,
+                "Isin": "INF732E01045",
+                "Security": "NIPPON INDIA MUTUAL\nFUND",
+                "Value": 2203.1
+              },
+              {
+                "CurrentBalance": 53.0,
+                "Isin": "INF204KB17I5",
+                "Security": "NIPPON INDIA MUTUAL\nFUND",
+                "Value": 2200.03
+              }
+            ],
+            "TotalMutualFund": 4,
+            "TotalValue": 8356.85
+          },
+          "Value": 0
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 282837.3500000001
+    },
+    "InvestorInfo": {
+      "Address": "XXXXX SOUTH DELHI, NEW DELHI",
+      "CasId": "115860768",
+      "Name": "DUMMY DUMMY",
+      "Pancard": "ATUPT7566M",
+      "PinCode": "110048"
+    },
+    "MutualFundFolioInfo": {
+      "Accounts": [
+        {
+          "AccountDetails": "1 Folios",
+          "AccountType": "Mutual Fund Folios",
+          "MutualFundFolioList": {
+            "MutualFundFolios": [
+              {
+                "AverageCostPerUnits": 1835.1035,
+                "FolioNumber": "91062649135",
+                "InvestmentValue": 2500000.0,
+                "Isin": "INF846K01CB0",
+                "IsinName": "Axis Banking &, PSU Debt Fund -, Regular Growth",
+                "NumberOfUnits": 1362.321,
+                "Value": 2805567.41
+              }
+            ],
+            "TotalMutualFundFolio": 1
+          },
+          "Value": 234860.32
+        }
+      ],
+      "TotalAccount": 2,
+      "TotalValue": 1670747.9200000002
+    },
+    "NSDLInfo": {
+      "Accounts": [
+        {
+          "AccountDetails": "HDFC BANK LTD",
+          "AccountType": "NSDL Demat Account",
+          "AIFList": {
+            "AIFs": [
+              {
+                "Isin": "INF5QS052012",
+                "IsinDescription": "CREDIT ALTERNATIVES INVESTMENT TRUST",
+                "NumberOfUnits": 740.315,
+                "Value": 7403150
+              },
+              {
+                "Isin": "INF5R1T52058",
+                "IsinDescription": "ALTERNATE INVESTMENT TRUST",
+                "NumberOfUnits": 100000,
+                "Value": 10000000
+              }
+            ],
+            "TotalAIF": 2,
+            "TotalValue": 17403150
+          },
+          "ClientId": "16027965",
+          "LinkedPANs": ["PAN_NO"],
+          "CorporateBondList": {
+            "CorporateBonds": [
+              {
+                "CompanyName": "RELIANCE CAPITAL LIMITED",
+                "CouponRate": null,
+                "FaceValue": 100000.0,
+                "Frequency": "",
+                "Interest": "Variable Interest - Index Linked Bonds",
+                "InterestType": 3,
+                "Isin": "INE013A072R0",
+                "MaturityDate": "24-Jun-2020",
+                "NumberOfBonds": 50.0,
+                "Value": 5000000.0
+              }
+            ],
+            "TotalCorporateBond": 0,
+            "TotalValue": 0
+          },
+          "DpId": "IN301559",
+          "EquityList": {
+            "Equities": [
+              {
+                "CompanyName": "BHARTI AIRTEL LIMITED",
+                "EquityType": 0,
+                "Isin": "INE397D01024",
+                "NumberOfShares": 10.0,
+                "StockSymbol": "BHARTIARTL.NSE",
+                "Value": 6853.5
+              },
+              {
+                "CompanyName": "HDFC LIFE INSURANCE, COMPANY LIMITED",
+                "EquityType": 0,
+                "Isin": "INE795G01014",
+                "NumberOfShares": 15.0,
+                "StockSymbol": "HDFCLIFE.NSE",
+                "Value": 10206.75
+              },
+              {
+                "CompanyName": "INFOSYS LIMITED",
+                "EquityType": 0,
+                "Isin": "INE009A01021",
+                "NumberOfShares": 2.0,
+                "StockSymbol": "INFY.NSE",
+                "Value": 3335.5
+              },
+              {
+                "CompanyName": "RELIANCE INDUSTRIES LIMITED",
+                "EquityType": 0,
+                "Isin": "INE002A01018",
+                "NumberOfShares": 3.0,
+                "StockSymbol": "RELIANCE.NSE",
+                "Value": 7608.75
+              }
+            ],
+            "TotalEquityShare": 30.0,
+            "TotalValue": 28004.5
+          },
+          "GovernmentSecurityList": {
+            "GovernmentSecurities": [
+              {
+                "CouponRate": 2.5,
+                "FaceValue": 4912.0,
+                "Isin": "IN0020200323",
+                "IssuerName": "Government of India - SGB 2020- 21 SERIES XI",
+                "MaturityDate": "09-Feb-2028",
+                "NumberOfUnits": 75.0,
+                "Value": 368400.0
+              }
+            ],
+            "TotalGovernmentSecurity": 1,
+            "TotalValue": 368400
+          },
+          "MutualFundList": {
+            "MutualFunds": [
+              {
+                "Isin": "INF109KC1O90",
+                "IsinDescription": "ICICI Prudential Business Cycle Fund Growth",
+                "NumberOfUnits": 18206.226,
+                "StockSymbol": "",
+                "Value": 190810.79
+              },
+              {
+                "Isin": "INF179KA1RZ8",
+                "IsinDescription": "HDFC Small Cap Fund - Regular Plan - Growth Plan",
+                "NumberOfUnits": 4589.727,
+                "StockSymbol": "",
+                "Value": 200000.0
+              },
+              {
+                "Isin": "INF204K01562",
+                "IsinDescription": "NIPPON INDIA LARGE CAP FUND - GROWTH PLAN GROWTH OPTION",
+                "NumberOfUnits": 6298.373,
+                "StockSymbol": "",
+                "Value": 214996.5
+              }
+            ],
+            "TotalMutualFund": 29094.325999999997,
+            "TotalValue": 605807.29
+          },
+          "Value": 0
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 633811.79
+    },
+    "LifeInsurancePoliciesInfo": {
+      "LifeInsurancePoliciesList": [
+        {
+          "InsuranceCompanyName": "Aditya Birla Sun Life Insurance Co. Ltd.",
+          "LifeAssured": "HIDDEN NAME",
+          "PolicyName": "ABSLI Assured Income Plus P06 T07 IBP20",
+          "PolicyNo": "00XXXX17X",
+          "PremiumFrequency": "Yearly",
+          "PremiumInstallment": "10,22,500.00",
+          "Status": "PREMIUM PAYING",
+          "SumAssured": "1,34,00,000.00"
+        }
+      ],
+      "TotalLifeInsurancePolicies": 4,
+      "TotalValue": 200200000.0
+    },
+    "statementPeriod": {
+      "EndDate": "31-Oct-2021",
+      "StartDate": "01-Oct-2021"
+    }
+  },
+  "msg": "success",
+  "status": "success"
+}

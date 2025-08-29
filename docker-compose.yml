@@ -1,0 +1,19 @@
+networks:
+  cardverse-network:
+    external: true
+
+services:
+  cardverse-api-server:
+    build:
+      context: .
+    container_name: cardverse-api-server
+    image: cardverse-api-server
+    restart: unless-stopped
+    env_file:
+      - ./.env
+    environment:
+      - NODE_ENV=production
+    ports:
+      - '$APP_PORT:$APP_PORT'
+    networks:
+      - cardverse-network

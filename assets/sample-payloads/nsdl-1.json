@@ -1,0 +1,334 @@
+{
+  "data": {
+    "AccountInfo": {
+      "Accounts": [
+        {
+          "AccountClass": 0,
+          "AccountDetails": "ICICI BANK LIMITED",
+          "AccountType": "NSDL Demat Account",
+          "ClientId": "63076821",
+          "DpId": "IN303028",
+          "Value": 9326.4
+        },
+        {
+          "AccountClass": 1,
+          "AccountDetails": "ZERODHA BROKING LIMITED",
+          "AccountType": "CDSL Demat Account",
+          "ClientId": "71433824",
+          "DpId": "12081600",
+          "Value": 68577.27
+        },
+        {
+          "AccountClass": 2,
+          "AccountDetails": "12 Folios",
+          "AccountType": "Mutual Fund Folios",
+          "ClientId": null,
+          "DpId": null,
+          "Value": 640616.93
+        }
+      ],
+      "GrandTotal": 718520.6000000001,
+      "TotalAccount": 3
+    },
+    "CDSLInfo": {
+      "Accounts": [
+        {
+          "AIFList": {
+            "AIFs": [],
+            "TotalAIF": 0,
+            "TotalValue": 0
+          },
+          "AccountClass": 1,
+          "AccountDetails": "ZERODHA BROKING LIMITED",
+          "AccountType": "CDSL Demat Account",
+          "ClientId": "71433824",
+          "CorporateBondList": {
+            "CorporateBonds": [],
+            "TotalCorporateBond": 0,
+            "TotalValue": 0
+          },
+          "DpId": "12081600",
+          "EquityList": {
+            "Equities": [],
+            "TotalEquity": 0,
+            "TotalValue": 0
+          },
+          "GovernmentSecurityList": {
+            "GovernmentSecurities": [],
+            "TotalGovernmentSecurity": 0,
+            "TotalValue": 0
+          },
+          "LinkedPANs": ["AKRPV9506D"],
+          "MutualFundList": {
+            "MutualFunds": [
+              {
+                "Isin": "INF179K01WN9",
+                "IsinDescription": "HDFC MUTUAL FUND",
+                "NumberOfUnits": 40.937,
+                "Value": 24834.6
+              },
+              {
+                "Isin": "INF247L01AG2",
+                "IsinDescription": "MOTILAL OSWAL MUTUAL FUND",
+                "NumberOfUnits": 297.695,
+                "Value": 5094.16
+              },
+              {
+                "Isin": "INF879O01027",
+                "IsinDescription": "PPFAS MUTUAL FUND",
+                "NumberOfUnits": 99.651,
+                "Value": 6103.13
+              },
+              {
+                "Isin": "INF966L01887",
+                "IsinDescription": "QUANT MUTUAL FUND",
+                "NumberOfUnits": 95.922,
+                "Value": 16582.9
+              },
+              {
+                "Isin": "INF966L01689",
+                "IsinDescription": "QUANT MUTUAL FUND",
+                "NumberOfUnits": 83.07,
+                "Value": 15962.48
+              }
+            ],
+            "TotalMutualFund": 5,
+            "TotalValue": 68577.27
+          },
+          "Value": 68577.27
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 68577.27
+    },
+    "InvestorInfo": {
+      "Address": "NO 664 2ND MAIN 8TH CROSS, VIJAYANAGAR HARIHAR",
+      "CasId": "112115985",
+      "Name": "VIKAS KRISHNA TALLUR",
+      "Pancard": "AKRPV9506D",
+      "PinCode": "577602"
+    },
+    "LifeInsurancePoliciesInfo": {
+      "LifeInsurancePoliciesList": [
+        {
+          "InsuranceCompanyName": "ICICI Prudential Life Insurance Company Limited",
+          "LifeAssured": "VIKAS  KRISHNA TALLUR",
+          "PolicyName": "ICICI Pru Life Stage Wealth II",
+          "PolicyNo": "15807701",
+          "PremiumFrequency": "Half Yearly",
+          "PremiumInstallment": "18,000.00",
+          "Status": "MATURE D",
+          "SumAssured": "7,20,000.00"
+        },
+        {
+          "InsuranceCompanyName": "ICICI Prudential Life Insurance Company Limited",
+          "LifeAssured": "VIKAS  KRISHNA TALLUR",
+          "PolicyName": "ICICI Pru iProtect Smart RP",
+          "PolicyNo": "49627349",
+          "PremiumFrequency": "Yearly",
+          "PremiumInstallment": "10,866.00",
+          "Status": "IN FORCE",
+          "SumAssured": "50,00,000.00"
+        }
+      ],
+      "TotalLifeInsurancePolicies": 2,
+      "TotalValue": 5720000
+    },
+    "MutualFundFolioInfo": {
+      "Accounts": [
+        {
+          "AccountClass": 2,
+          "AccountDetails": "12 Folios",
+          "AccountType": "Mutual Fund Folios",
+          "MutualFundFolioList": {
+            "MutualFundFolios": [
+              {
+                "AverageCostPerUnits": 35.4891,
+                "FolioNumber": "1038184800",
+                "InvestmentValue": 32000,
+                "Isin": "INF209K01UN8",
+                "IsinName": "Aditya Birla Sun, Life Tax Relief'96, Fund- (ELSS U/S, 80C of IT ACT) -, Growth-Direct Plan",
+                "NumberOfUnits": 901.685,
+                "Value": 43984.19
+              },
+              {
+                "AverageCostPerUnits": 70.1468,
+                "FolioNumber": "91048788191",
+                "InvestmentValue": 264248.97,
+                "Isin": "INF846K01EW2",
+                "IsinName": "Axis Long Term, Equity Fund - Direct, Growth",
+                "NumberOfUnits": 3767.083,
+                "Value": 295075.61
+              },
+              {
+                "AverageCostPerUnits": 54.3994,
+                "FolioNumber": "91020102501",
+                "InvestmentValue": 21000,
+                "Isin": "INF846K01131",
+                "IsinName": "Axis Long Term, Equity Fund -, Regular Growth",
+                "NumberOfUnits": 386.034,
+                "Value": 27150.47
+              },
+              {
+                "AverageCostPerUnits": 517.7323,
+                "FolioNumber": "20011277",
+                "InvestmentValue": 2000,
+                "Isin": "INF090I01JS8",
+                "IsinName": "Franklin India, TAXSHIELD -, Direct Plan -, Growth",
+                "NumberOfUnits": 3.863,
+                "Value": 4373.6
+              },
+              {
+                "AverageCostPerUnits": 77.7721,
+                "FolioNumber": "12732466",
+                "InvestmentValue": 24000,
+                "Isin": "INF109K016L0",
+                "IsinName": "ICICI Prudential, Bluechip Fund -, Direct Plan -, Growth",
+                "NumberOfUnits": 308.594,
+                "Value": 25838.58
+              },
+              {
+                "AverageCostPerUnits": 185.0995,
+                "FolioNumber": "12732466",
+                "InvestmentValue": 10000,
+                "Isin": "INF109K01Y07",
+                "IsinName": "ICICI Prudential, Equity & Debt Fund, - Direct Plan -, Growth",
+                "NumberOfUnits": 54.025,
+                "Value": 16224.79
+              },
+              {
+                "AverageCostPerUnits": 627.0851,
+                "FolioNumber": "17006427",
+                "InvestmentValue": 75000,
+                "Isin": "INF109K01Y31",
+                "IsinName": "ICICI Prudential, Long Term Equity, Fund (Tax Saving) -, Direct Plan -, Growth",
+                "NumberOfUnits": 119.601,
+                "Value": 88194.97
+              },
+              {
+                "AverageCostPerUnits": 269.6435,
+                "FolioNumber": "17006427",
+                "InvestmentValue": 75000,
+                "Isin": "INF109K012K1",
+                "IsinName": "ICICI Prudential, Value Discovery, Fund - Direct Plan -, Growth",
+                "NumberOfUnits": 278.145,
+                "Value": 96151.95
+              },
+              {
+                "AverageCostPerUnits": 318.5728,
+                "FolioNumber": "7080803",
+                "InvestmentValue": 1000,
+                "Isin": "INF109K01AF8",
+                "IsinName": "ICICI Prudential, Value Discovery, Fund - Growth",
+                "NumberOfUnits": 3.139,
+                "Value": 997.54
+              },
+              {
+                "AverageCostPerUnits": 9.8354,
+                "FolioNumber": "4516823",
+                "InvestmentValue": 27500,
+                "Isin": "INF174KA1FQ7",
+                "IsinName": "Kotak NASDAQ, 100 FOF -  Direct, Plan",
+                "NumberOfUnits": 2796.029,
+                "Value": 36440.09
+              },
+              {
+                "AverageCostPerUnits": 0,
+                "FolioNumber": "404141242546",
+                "InvestmentValue": 0,
+                "Isin": "INF204K01489",
+                "IsinName": "NIPPON INDIA, MULTI CAP FUND, - GROWTH PLAN, GROWTH OPTION",
+                "NumberOfUnits": 0,
+                "Value": 0
+              },
+              {
+                "AverageCostPerUnits": 145.7336,
+                "FolioNumber": "14853873",
+                "InvestmentValue": 6000,
+                "Isin": "INF200K01T51",
+                "IsinName": "SBI Small Cap, Fund Direct Growth",
+                "NumberOfUnits": 41.171,
+                "Value": 6185.14
+              }
+            ],
+            "TotalMutualFundFolio": 12
+          },
+          "Value": 640616.93
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 640616.93
+    },
+    "NSDLInfo": {
+      "Accounts": [
+        {
+          "AIFList": {
+            "AIFs": [],
+            "TotalAIF": 0,
+            "TotalValue": 0
+          },
+          "AccountClass": 0,
+          "AccountDetails": "ICICI BANK LIMITED",
+          "AccountType": "NSDL Demat Account",
+          "ClientId": "63076821",
+          "CorporateBondList": {
+            "CorporateBonds": [],
+            "TotalCorporateBond": 0,
+            "TotalValue": 0
+          },
+          "DpId": "IN303028",
+          "EquityList": {
+            "Equities": [
+              {
+                "CompanyName": "FARMAX INDIA LIMITED",
+                "EquityType": 0,
+                "Isin": "INE890I01035",
+                "NumberOfShares": 2000,
+                "StockSymbol": "NOT LISTED",
+                "Value": 2000
+              },
+              {
+                "CompanyName": "PROVOGUE (INDIA) LIMITED",
+                "EquityType": 0,
+                "Isin": "INE968G01033",
+                "NumberOfShares": 100,
+                "StockSymbol": "NOT LISTED",
+                "Value": 100
+              },
+              {
+                "CompanyName": "UNO MINDA LIMITED",
+                "EquityType": 0,
+                "Isin": "INE405E01023",
+                "NumberOfShares": 12,
+                "StockSymbol": "UNOMINDA.NSE",
+                "Value": 7226.4
+              }
+            ],
+            "TotalEquityShare": 2112,
+            "TotalValue": 9326.4
+          },
+          "GovernmentSecurityList": {
+            "GovernmentSecurities": [],
+            "TotalGovernmentSecurity": 0,
+            "TotalValue": 0
+          },
+          "LinkedPANs": ["AKRPV9506D"],
+          "MutualFundList": {
+            "MutualFunds": [],
+            "TotalMutualFund": 0,
+            "TotalValue": 0
+          },
+          "Value": 9326.4
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 9326.4
+    },
+    "statementPeriod": {
+      "EndDate": "31-Aug-2023",
+      "StartDate": "01-Aug-2023"
+    }
+  },
+  "msg": "success",
+  "status": "success"
+}

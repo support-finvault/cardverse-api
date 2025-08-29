@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "cardverse-api",
+      "script": "./dist/main.js",
+      "log_date_format": "YYYY-MM-DD HH:mm Z",
+      "instance_var": "INSTANCE_ID",
+      "watch": false,
+      "env": {
+        "BUILD_ENV": "Release",
+        "NODE_ENV": "production",
+        "DeploymentEnv": "prodRelease"
+      }
+    }
+  ]
+}

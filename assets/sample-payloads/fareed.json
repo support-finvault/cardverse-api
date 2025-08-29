@@ -1,0 +1,172 @@
+{
+  "demat_accounts": [
+    {
+      "additional_info": {
+        "bo_status": null,
+        "bo_sub_status": null,
+        "bo_type": null,
+        "bsda": null,
+        "email": null,
+        "nominee": null,
+        "status": null
+      },
+      "bo_id": "1208160128653149",
+      "client_id": "28653149",
+      "demat_type": "cdsl",
+      "dp_id": "12081601",
+      "dp_name": "ZERODHA BROKING LIMITED",
+      "holdings": {
+        "aifs": [],
+        "corporate_bonds": [
+          {
+            "additional_info": {},
+            "isin": "INE532F07GX9",
+            "name": "EDELWEISS FINANCIAL SERVICES LTD#10.04% SEC NGRT SNR TAX NCUM RTD RED NCD SR VI PI-RD 24.01.2030",
+            "units": 1000,
+            "value": 992000
+          }
+        ],
+        "demat_mutual_funds": [
+          {
+            "additional_info": {},
+            "isin": "INF179K01XQ0",
+            "name": "HDFC AMC LTD# HDFC MF - HDFC MID-CAP OPPORTUNITES FUND DIRECT PLAN GROWTH",
+            "units": 2224.47,
+            "value": 460251.74
+          },
+          {
+            "additional_info": {},
+            "isin": "INF174K01KT2",
+            "name": "KOTAK MAHINDRA AMC LTD#KOTAK MAHINDRA MF- KOTAK SMALL CAP FUND- DIRECT-GROWTH",
+            "units": 1153.021,
+            "value": 348206.58
+          },
+          {
+            "additional_info": {},
+            "isin": "INF247L01AG2",
+            "name": "MOTILAL OSWAL AMC LTD#MOTILAL OSWAL MF- MOTILAL OSWAL S&P 500 INDEX FUND-DIRECT-GROWTH",
+            "units": 4393.977,
+            "value": 102252.24
+          },
+          {
+            "additional_info": {},
+            "isin": "INF204K01XF9",
+            "name": "NIPPON LIFE INDIA AM LTD#NIPPON INDIA MF-NIPPON INDIA MULTI CAP FD-DIRECT GROWTH PL-GROWTH OPT",
+            "units": 16.759,
+            "value": 5412.17
+          },
+          {
+            "additional_info": {},
+            "isin": "INF879O01027",
+            "name": "PPFAS AM PVT LTD#PPFAS MF- PARAG PARIKH FLEXI CAP FUND-DIRECT PLAN-GROWTH OPTION",
+            "units": 125.737,
+            "value": 11289.17
+          },
+          {
+            "additional_info": {},
+            "isin": "INF966L01689",
+            "name": "QUANT MONEY MANAGERS LTD#QUANT MF-QUANT SMALL CAP FUND-DIRECT-GROWTH",
+            "units": 40.369,
+            "value": 11003.7
+          }
+        ],
+        "equities": [
+          {
+            "additional_info": {},
+            "isin": "INE004A01022",
+            "name": "PROTEAN E-GOV TECHNOLOGIES LIMITED # EQUITY SHARES",
+            "units": 51,
+            "value": 49074.75
+          },
+          {
+            "additional_info": {},
+            "isin": "INE721I01024",
+            "name": "NATIONAL STOCK EXCHANGE OF INDIA LIMITED#EQUITY SHARES WITH FACE VALUE RE. 1/- AFTER SUBDIVISION",
+            "units": 1000,
+            "value": 1000
+          }
+        ],
+        "government_securities": []
+      },
+      "value": 1176201.71
+    },
+    {
+      "additional_info": {
+        "bo_status": "INDIVIDUAL",
+        "bo_sub_status": "Individual- Resident Negative",
+        "bo_type": "Resident",
+        "bsda": "NO",
+        "email": "FAREED.945@GMAIL.COM",
+        "nominee": "Not Registered",
+        "status": "Active"
+      },
+      "bo_id": "IN30371960082460",
+      "client_id": "60082460",
+      "demat_type": "nsdl",
+      "dp_id": "IN303719",
+      "dp_name": "NUVAMA WEALTH AND INVESTMENT LIMITED",
+      "holdings": {
+        "aifs": [],
+        "corporate_bonds": [],
+        "demat_mutual_funds": [
+          {
+            "additional_info": {},
+            "isin": "INF194K012A8",
+            "name": "BANDHAN AMC LTD#BANDHAN MF-BANDHAN NIFTY 50 INDEX FUND - DIRECT PL - GROWTH",
+            "units": 2877.49,
+            "value": 157200.16
+          }
+        ],
+        "equities": [
+          {
+            "additional_info": {},
+            "isin": "INE124G01033",
+            "name": "DELTA CORP LIMITED -  NEW EQUITY SHARES OF RE. 1/- AFTER SPLIT",
+            "units": 340,
+            "value": 31511.2
+          }
+        ],
+        "government_securities": []
+      },
+      "value": 993000
+    }
+  ],
+  "insurance": {
+    "life_insurance_policies": []
+  },
+  "investor": {
+    "address": "C/OP Amanullah Khan #56Rajamma Building 8th Cross Puttanna Colony 8th Cross Dead End Nagavarapalya BENGALURU KARNATAKA",
+    "cas_id": "",
+    "email": "",
+    "mobile": "",
+    "name": "PATHAN FAREED BASHA KHAN",
+    "pan": "CHEPB4976K",
+    "pincode": "560093"
+  },
+  "meta": {
+    "cas_type": "CDSL",
+    "generated_at": "2025-06-27T09:48:13",
+    "statement_period": {
+      "from": "2025-05-01",
+      "to": "2025-05-31"
+    }
+  },
+  "mutual_funds": [],
+  "summary": {
+    "accounts": {
+      "demat": {
+        "count": 2,
+        "total_value": 2169201.71
+      },
+      "insurance": {
+        "count": 0,
+        "total_value": 0
+      },
+      "mutual_funds": {
+        "count": 0,
+        "total_value": 0
+      }
+    },
+    "total_value": 2169201.71
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "AccountInfo": {
+      "Accounts": [
+        {
+          "AccountClass": 0,
+          "AccountType": "CDSL Demat Accounts",
+          "Value": 12.42
+        },
+        {
+          "AccountClass": 1,
+          "AccountType": "NSDL Demat Accounts",
+          "Value": 110097.4
+        },
+        {
+          "AccountClass": 2,
+          "AccountType": "Mutual Fund Folios+",
+          "Value": 0
+        }
+      ],
+      "GrandTotal": 110109.82,
+      "TotalAccount": 3
+    },
+    "CdslInfo": {
+      "Accounts": [
+        {
+          "Account Status": "Active",
+          "BO ID": "1201090015150758",
+          "BO Status": "INDIVIDUAL",
+          "BO Sub Status": "Individual- Resident",
+          "BSDA": "NO",
+          "DP Name": "MOTILAL OSWAL FINANCIAL SERVICES LIMITED",
+          "Email Id": "abc@gmail.com",
+          "Frozen Status": "Not Frozen",
+          "Mobile No": "XXXXXX5504",
+          "Nominee": "Not Registered",
+          "RGESS": "NO"
+        },
+        {
+          "Account Status": "Active",
+          "BO ID": "1301440003476780",
+          "BO Status": "INDIVIDUAL",
+          "BO Sub Status": "Individual- Resident",
+          "BSDA": "NO",
+          "DP Name": "KARVY STOCK BROKING LIMITED",
+          "Email Id": "abc@gmail.com",
+          "EquityList": {
+            "Equities": [],
+            "TotalEquity": 0,
+            "TotalValue": 0
+          },
+          "Frozen Status": "Not Frozen",
+          "Mobile No": "XXXXXX5504",
+          "Nominee": "Not Registered",
+          "RGESS": "NO"
+        },
+        {
+          "Account Status": "Active",
+          "BO ID": "1205420000685916",
+          "BO Status": "INDIVIDUAL",
+          "BO Sub Status": "Individual- Resident",
+          "BSDA": "O",
+          "DP Name": "SAMCO SECURITIES LIMITED",
+          "Email Id": "abc@gmail.com",
+          "EquityList": {
+            "Equities": [
+              {
+                "CurrentBalance": 1,
+                "Isin": "INE528G01035",
+                "IsinName": "YES BANK LIMITED#NEW EQUITY SHARES OF FV RS. 2/-",
+                "Value": 12.42
+              }
+            ],
+            "TotalEquity": 1,
+            "TotalValue": 12.42
+          },
+          "Frozen Status": "Not Frozen",
+          "Mobile No": "XXXXXX5504",
+          "Nominee": "Not Registered",
+          "RGESS": "NO"
+        },
+        {
+          "Account Status": "Active",
+          "BO ID": "1203320007454855",
+          "BO Status": "INDIVIDUAL",
+          "BO Sub Status": "Individual-Resident",
+          "BSDA": "NO",
+          "DP Name": "ANGEL BROKING LIMITED",
+          "Email Id": "abc@yahoo.co.in",
+          "EquityList": {
+            "Equities": [],
+            "TotalEquity": 0,
+            "TotalValue": 0
+          },
+          "Frozen Status": "Not Frozen",
+          "Mobile No": "XXXXXX0004",
+          "Nominee": "Registered",
+          "RGESS": "NO"
+        },
+        {
+          "Account Status": "Active",
+          "BO Sub Type": "Ordinary",
+          "BO Type": "Resident",
+          "BSDA": "NO",
+          "DP Name": "SHAREKHAN LIMITED",
+          "DPID": "83153500",
+          "Email Id": "abc@gmail.com",
+          "EquityList": {
+            "Equities": [
+              {
+                "CurrentBalance": null,
+                "Isin": "INE423A01024",
+                "IsinName": "ADANI ENTERPRISES LIMITED EQ NEW FV RE.1/-",
+                "Value": 0
+              },
+              {
+                "CurrentBalance": null,
+                "Isin": "INE901L01018",
+                "IsinName": "ALEMBIC PHARMACEUTICALS LIMITED EQ",
+                "Value": 0
+              }
+            ],
+            "TotalEquity": 8,
+            "TotalValue": 110097.4
+          },
+          "Mobile No": "XXXXXX5504",
+          "Nominee": "NOT REGISTERED",
+          "RGESS": "NO"
+        },
+        {
+          "Account Status": "Active",
+          "BO Sub Type": "Ordinary",
+          "BO Type": "Resident",
+          "BSDA": "NO",
+          "DP Name": "ADITYA BIRLA MONEY LIMITED",
+          "DPID": "12144842",
+          "Email Id": "abc@yahoo.co.in",
+          "EquityList": {
+            "Equities": [],
+            "TotalEquity": 0,
+            "TotalValue": 0
+          },
+          "Mobile No": "XXXXXX2805",
+          "Nominee": "NOT REGISTERED",
+          "RGESS": "NO"
+        }
+      ],
+      "TotalAccount": 9,
+      "TotalValue": 110109.81999999999
+    },
+    "NsdlInfo": {
+      "Accounts": [
+        {
+          "Account Status": "Active",
+          "BO Sub Type": "Ordinary",
+          "BO Type": "Resident",
+          "BSDA": "NO",
+          "Client ID": "1234",
+          "DP Name": "ADITYA BIRLA MONEY LIMITED",
+          "DPID": "12144842",
+          "Email Id": "abc@yahoo.co.in",
+          "EquityList": {
+            "Equities": [
+              {
+                "CurrentBalance": 0,
+                "Isin": "INE423A01024",
+                "IsinName": "ADANI ENTERPRISES LIMITED EQ NEW FV RE.1/-",
+                "Value": 0
+              }
+            ],
+            "TotalEquity": 0,
+            "TotalValue": 0
+          },
+          "RGESS": "NO"
+        }
+      ],
+      "TotalAccount": 9,
+      "TotalValue": 110109.81999999999
+    },
+    "InvestorInfo": {
+      "Address": "VJB UDYAN MUMBAI MAHARASHTRA",
+      "Name": "ABC USERNAME",
+      "PinCode": " 400027"
+    },
+    "MutualFundFolioInfo": {
+      "Accounts": [
+        {
+          "AccountClass": 2,
+          "AccountType": "Mutual Fund Folios",
+          "MutualFundFolioList": {
+            "MutualFundFolios": [
+              {
+                "ArnCode": "ABCD",
+                "ClosingBalance": 0.001,
+                "FolioNumber": "1037258475",
+                "InvestmentValue": 0.03,
+                "Isin": "INF209K01WN4",
+                "IsinName": "295GZ - Aditya Birla Sun Life Small Cap Fund Growth-Direct Plan (formerly known as Aditya Birla Sun Life Small & Midcap Fund)",
+                "Nav": 62.6606,
+                "Value": 0.06
+              }
+            ],
+            "TotalMutualFundFolio": 11
+          },
+          "Value": 1918555.7199999997
+        }
+      ],
+      "TotalAccount": 1,
+      "TotalValue": 1918555.7199999997
+    },
+    "StatementPeriod": {
+      "From": "01-10-2020",
+      "To": "31-10-2020"
+    }
+  },
+  "msg": "success",
+  "status": "success"
+}
