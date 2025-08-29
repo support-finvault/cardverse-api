@@ -8,6 +8,7 @@ node_modules/
 dist/
 logs/
 defaultLogFile.*
+
 # Compiled Java class files
 *.class
 
@@ -49,5 +50,5 @@ Thumbs.db
 *.mov
 *.wmv
 
-.env
-
+*.env
+*.env.devQA
